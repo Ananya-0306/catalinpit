@@ -42,11 +42,11 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My 9 Must-Have Browser Extensions For Increased Developer Productivity](https://catalins.tech/my-9-must-have-browser-extensions-for-increased-developer-productivity)
 - [Canonical URL - What Is It And Why Should You Care](https://catalins.tech/canonical-url-what-is-it-and-why-should-you-care)
 - [20 Best Places To Learn Programming For Free](https://catalins.tech/20-best-places-to-learn-programming-for-free)
 - [Getting Started With Open-Source: How To Contribute](https://catalins.tech/getting-started-with-open-source-how-to-contribute)
 - [5 Tips You Want To See If You Work Remotely](https://catalins.tech/5-tips-you-want-to-see-if-you-work-remotely)
-- [KeystoneJS & GraphQL API Crash Course](https://catalins.tech/keystonejs-and-graphql-api-crash-course)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://catalins.tech)
